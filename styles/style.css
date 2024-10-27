@@ -1,0 +1,70 @@
+html {
+  background-color: #FFFFFF;
+  font-family: "Silkscreen";
+}
+
+p {
+  margin: auto;
+}
+
+img {
+
+}
+
+.sidenav {
+  background-color: #4b4bea;
+  overflow-x: hidden;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  display: flex;
+}
+
+.sidenav a {
+  padding: 6px 8px 6px 16px;
+  text-decoration: none;
+  font-size: 15px;
+  color: #f1f1f1;
+  justify-content:
+}
+
+.sidenav a:hover {
+  color: #000000;
+}
+
+
+.logo {
+  background-color: #f1f1f1;
+  color: #000000;
+  font-size: 30px;
+  height: 100px;
+}
+
+.email {
+  font-size: 15px;
+}
+.bar {
+  background-color: #4b4bea;
+  position: relative;
+  height: 100px;
+  margin: 0px;
+}
+
+.me3 {
+  width: 100%;
+}
+
+.project {
+  background-color: #4b4bea;
+  padding: 20px;
+  width: 60%;
+  position: relative;
+  bottom: 30px;
+}
+
+.projects {
+  display: flex;
+}
+
+.projects img {
+  width: auto;
+}
