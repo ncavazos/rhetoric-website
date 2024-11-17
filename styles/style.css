@@ -26,6 +26,10 @@ img {
   background-color:  #d1d1e0;
 }
 
+.txtbox {
+  padding: 10px;
+}
+
 .sidenav {
   background-color: #4b4bea;
   overflow-x: hidden;
