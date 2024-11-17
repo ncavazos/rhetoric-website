@@ -12,6 +12,20 @@ img {
   height: 25%;
 }
 
+.box{
+  display: flex;
+  padding: 20px;
+  font-size: 10px;
+}
+
+.dcs {
+  background-color:  #d1d1e0;
+  padding: 20px;
+}
+.memes {
+  background-color:  #d1d1e0;
+}
+
 .sidenav {
   background-color: #4b4bea;
   overflow-x: hidden;
